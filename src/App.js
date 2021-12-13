@@ -12,7 +12,8 @@ function App() {
 	  Edit-2 <code>src/App.js</code> and save to reload.
 		Edit 3
         </p>
-	  <h2>Welcome to Docker</h2>
+	  <h2>Welcome to Docker within:wq!
+	  Feature branch</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
